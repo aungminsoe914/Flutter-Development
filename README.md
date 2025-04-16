@@ -1,6 +1,4 @@
-Here’s the updated README file with the "Developed by Aung Min Soe" credit included:
 
----
 
 # Flutter runApp() Minimal Example
 
